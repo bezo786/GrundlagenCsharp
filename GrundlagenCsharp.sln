@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1HelloWordl", "1HelloWordl\1HelloWordl.csproj", "{FF604CE6-0780-462D-874B-D3800B7A14F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2EIngabeAusgabe", "2EIngabeAusgabe\2EIngabeAusgabe.csproj", "{B7725386-0D78-44A0-8762-57EE198BCB7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF604CE6-0780-462D-874B-D3800B7A14F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF604CE6-0780-462D-874B-D3800B7A14F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF604CE6-0780-462D-874B-D3800B7A14F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF604CE6-0780-462D-874B-D3800B7A14F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7725386-0D78-44A0-8762-57EE198BCB7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7725386-0D78-44A0-8762-57EE198BCB7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7725386-0D78-44A0-8762-57EE198BCB7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7725386-0D78-44A0-8762-57EE198BCB7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FE93C03-AE1B-4D90-B26B-73E2F79CFEB6}
+	EndGlobalSection
+EndGlobal
