@@ -5,6 +5,7 @@ Console.WriteLine("| |");
 Console.WriteLine("'~~~'");
 
 Console.WriteLine("Enter drücken...");
+Console.WriteLine("ghf");
 Console.ReadKey();
 
 string Vorname = "Behzad";
